@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "app.api.path.product",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.path.product'"
+  },
+  {
+    "name": "app.api.path.category",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.path.category'"
+  },
+  {
+    "name": "app.api.path.login",
+    "type": "java.lang.String",
+    "description": "A description for 'app.api.path.login'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "app.passworduser",
+    "type": "java.lang.String",
+    "description": "A description for 'app.passworduser'"
+  },
+  {
+    "name": "app.user",
+    "type": "java.lang.String",
+    "description": "A description for 'app.user'"
+  },
+  {
+    "name": "app.passwordadmin",
+    "type": "java.lang.String",
+    "description": "A description for 'app.passwordadmin'"
+  },
+  {
+    "name": "app.useradmin",
+    "type": "java.lang.String",
+    "description": "A description for 'app.useradmin'"
+  }
+]}
